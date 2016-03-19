@@ -1,0 +1,8 @@
+title: Contacts
+slug: sample-contacts
+page_title: Contacts | Apache Cordova Sample | Telerik Platform
+description: This sample shows you how to use the Contacts Apache Cordova core plugin to manage the contacts data base of your mobile device. 
+tags: Apache Cordova, core, contacts, iOS, Android, Windows Phone
+publish: true
+content_filter: true
+apis: cordova.contacts cordova.contacts.contacts cordova.contacts.create cordova.contacts.find
